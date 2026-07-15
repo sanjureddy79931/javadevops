@@ -10,7 +10,7 @@ pipeline{
         }
         stage("Build"){
             steps{
-                sh'docker build -t  hello-prapancham.'
+                sh'docker build -t  hello-prapancham .'
             }
         }
         stage("Run"){
