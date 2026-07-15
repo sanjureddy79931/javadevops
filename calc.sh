@@ -8,6 +8,6 @@ echo "--SUBTRACTION"
 javac sub.java
 java sub
 
-echo"--MULTIPLICATION"
+echo "--MULTIPLICATION"
 javac multi.java
 java multi
